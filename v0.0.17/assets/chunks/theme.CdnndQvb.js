@@ -1,6 +1,6 @@
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/chunks/VPLocalSearchBox.fHN7gXoj.js","assets/chunks/framework.Cqch4POa.js"]
+    __vite__mapDeps.viteFileDeps = ["assets/chunks/VPLocalSearchBox.Bbh29EBL.js","assets/chunks/framework.Cqch4POa.js"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }
@@ -2235,7 +2235,7 @@ const _hoisted_3$6 = {
 const _sfc_main$l = /* @__PURE__ */ defineComponent({
   __name: "VPNavBarSearch",
   setup(__props) {
-    const VPLocalSearchBox = defineAsyncComponent(() => __vitePreload(() => import("./VPLocalSearchBox.fHN7gXoj.js"), true ? __vite__mapDeps([0,1]) : void 0));
+    const VPLocalSearchBox = defineAsyncComponent(() => __vitePreload(() => import("./VPLocalSearchBox.Bbh29EBL.js"), true ? __vite__mapDeps([0,1]) : void 0));
     const VPAlgoliaSearchBox = () => null;
     const { theme: theme2 } = useData();
     const loaded = ref(false);
