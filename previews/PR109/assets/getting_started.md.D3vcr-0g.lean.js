@@ -1,4 +1,4 @@
-import { _ as _export_sfc, c as createElementBlock, o as openBlock, a4 as createStaticVNode } from "./chunks/framework.xtTLbn8X.js";
+import { _ as _export_sfc, c as createElementBlock, o as openBlock, a6 as createStaticVNode } from "./chunks/framework.C2uzFif8.js";
 const __pageData = JSON.parse('{"title":"Getting started","description":"","frontmatter":{},"headers":[],"relativePath":"getting_started.md","filePath":"getting_started.md","lastUpdated":null}');
 const _sfc_main = { name: "getting_started.md" };
 const _hoisted_1 = /* @__PURE__ */ createStaticVNode("", 31);
