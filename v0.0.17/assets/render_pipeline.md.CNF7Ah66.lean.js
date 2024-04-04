@@ -1,4 +1,4 @@
-import { _ as _export_sfc, c as createElementBlock, o as openBlock, a4 as createStaticVNode } from "./chunks/framework.Cqch4POa.js";
+import { _ as _export_sfc, c as createElementBlock, o as openBlock, a6 as createStaticVNode } from "./chunks/framework.r4j8LKyH.js";
 const __pageData = JSON.parse('{"title":"The rendering process","description":"","frontmatter":{},"headers":[],"relativePath":"render_pipeline.md","filePath":"render_pipeline.md","lastUpdated":null}');
 const _sfc_main = { name: "render_pipeline.md" };
 const _hoisted_1 = /* @__PURE__ */ createStaticVNode("", 18);

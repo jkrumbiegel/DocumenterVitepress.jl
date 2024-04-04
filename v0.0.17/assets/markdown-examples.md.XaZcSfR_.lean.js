@@ -1,4 +1,4 @@
-import { _ as _export_sfc, E as resolveComponent, c as createElementBlock, J as createVNode, w as withCtx, m as createBaseVNode, a as createTextVNode, a4 as createStaticVNode, o as openBlock } from "./chunks/framework.Cqch4POa.js";
+import { _ as _export_sfc, E as resolveComponent, c as createElementBlock, J as createVNode, w as withCtx, m as createBaseVNode, a as createTextVNode, a6 as createStaticVNode, o as openBlock } from "./chunks/framework.r4j8LKyH.js";
 const __pageData = JSON.parse('{"title":"Markdown Extension Examples","description":"","frontmatter":{},"headers":[],"relativePath":"markdown-examples.md","filePath":"markdown-examples.md","lastUpdated":null}');
 const _sfc_main = { name: "markdown-examples.md" };
 const _hoisted_1 = /* @__PURE__ */ createStaticVNode("", 24);
