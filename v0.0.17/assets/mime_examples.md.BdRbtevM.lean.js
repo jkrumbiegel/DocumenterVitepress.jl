@@ -1,8 +1,8 @@
 import { _ as _export_sfc, c as createElementBlock, o as openBlock, a6 as createStaticVNode } from "./chunks/framework.r4j8LKyH.js";
-const _imports_0 = "/DocumenterVitepress.jl/v0.0.17/assets/duqgnft.CGGmtknr.png";
-const _imports_1 = "/DocumenterVitepress.jl/v0.0.17/assets/nkxskgy.yDDNeA3I.jpeg";
-const _imports_2 = "/DocumenterVitepress.jl/v0.0.17/assets/dksyrcg.C-W3LInb.gif";
-const _imports_3 = "/DocumenterVitepress.jl/v0.0.17/assets/dksyrcg.C-W3LInb.gif";
+const _imports_0 = "/DocumenterVitepress.jl/v0.0.17/assets/cdcphyy.CGGmtknr.png";
+const _imports_1 = "/DocumenterVitepress.jl/v0.0.17/assets/zvtnafx.yDDNeA3I.jpeg";
+const _imports_2 = "/DocumenterVitepress.jl/v0.0.17/assets/wbrpvkk.C-W3LInb.gif";
+const _imports_3 = "/DocumenterVitepress.jl/v0.0.17/assets/wbrpvkk.C-W3LInb.gif";
 const __pageData = JSON.parse('{"title":"MIME-type examples","description":"","frontmatter":{},"headers":[],"relativePath":"mime_examples.md","filePath":"mime_examples.md","lastUpdated":null}');
 const _sfc_main = { name: "mime_examples.md" };
 const _hoisted_1 = /* @__PURE__ */ createStaticVNode("", 13);
